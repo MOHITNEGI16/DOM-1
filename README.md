@@ -9,7 +9,7 @@ First Project of DOM Manipulation.
 - After fecthing the element we did manipulated its style by using JS .
 
 ## Live Demo / Hosted Link
-- Check out the link [Hosted Link](https://mohitnegi16.github.io/DOM-1/g).
+- Check out the link [Hosted Link](https://mohitnegi16.github.io/DOM-1/).
 
 
 
